@@ -19,6 +19,8 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit;
 }
 
+$isAjax = (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest');
+
 // Проверяем CSRF токен
 if (!validateCSRF($_POST['csrf_token'] ?? '')) {
     if ($isAjax) {
@@ -28,8 +30,6 @@ if (!validateCSRF($_POST['csrf_token'] ?? '')) {
     }
     exit;
 }
-
-$isAjax = (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest');
 
 function uploadRespondRedirect($url) {
     header('Location: ' . $url);
