@@ -1,0 +1,52 @@
+2026-02-14 01:20:11 | admin | download_db | Скачана копия БД
+2026-02-14 01:49:44 | admin | recalc_formulas | Обновлено записей: 15
+2026-02-16 00:42:35 | admin | update_project | ID: 1, Название: Белфорель
+2026-02-16 00:43:45 | admin | update_project | ID: 1, Название: Белфорель
+2026-02-16 00:45:36 | admin | update_project | ID: 1, Название: Белфорель
+2026-02-16 00:46:31 | admin | update_project | ID: 1, Название: Белфорель
+2026-02-16 00:56:25 | admin | create_user | Логин: petrov, ФИО: Петров Иван
+2026-02-16 01:07:32 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 01:07:39 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 01:07:55 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 01:12:56 | admin | update_user | ID: 3, Логин: petrov
+2026-02-16 01:13:17 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 01:13:22 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 01:13:26 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 01:13:37 | admin | update_project | ID: 3, Название: Бета
+2026-02-16 08:32:38 | admin | create_user | Логин: lenav, ФИО: Елена Высокосова
+2026-02-16 08:32:50 | admin | delete_user | ID: 3, Логин: petrov
+2026-02-17 14:52:25 | admin | create_project | Название: kkk
+2026-02-17 14:52:33 | admin | delete_project | ID: 4, Название: kkk
+2026-02-17 15:27:18 | admin | delete_file | ID: 34, Имя: Техника для ГНБ 2025 Премиум ЭС.pdf
+2026-02-17 15:27:32 | admin | download_file | ID: 33, Имя: Vypusk.NEP.GPBBOLv10.pdf
+2026-02-17 15:27:38 | admin | delete_file | ID: 33, Имя: Vypusk.NEP.GPBBOLv10.pdf
+2026-02-17 15:27:42 | admin | download_file | ID: 32, Имя: Снимок экрана 2026-02-02 134655.png
+2026-02-17 15:27:49 | admin | delete_file | ID: 32, Имя: Снимок экрана 2026-02-02 134655.png
+2026-02-17 15:32:43 | admin | download_file | ID: 31, Имя: 50807588_ООО _ГЕОПРОЕКТ-М__16.12.2025(2).pdf
+2026-02-17 15:32:50 | admin | delete_file | ID: 31, Имя: 50807588_ООО _ГЕОПРОЕКТ-М__16.12.2025(2).pdf
+2026-02-17 15:39:52 | admin | update_user | ID: 2, Логин: lena
+2026-02-17 15:39:56 | admin | update_user | ID: 2, Логин: lena
+2026-02-17 15:41:05 | admin | update_user | ID: 4, Логин: lenav
+2026-02-17 15:41:22 | admin | update_user | ID: 4, Логин: lenav
+2026-02-17 15:43:24 | admin | update_user | ID: 4, Логин: lenav
+2026-02-17 15:45:13 | admin | update_project | ID: 1, Название: Белфорель
+2026-02-17 15:47:03 | admin | update_user | ID: 2, Логин: lena
+2026-02-17 15:49:35 | admin | update_project | ID: 3, Название: Бета
+2026-02-17 15:49:57 | admin | create_project | Название: Test
+2026-02-17 15:50:03 | admin | delete_project | ID: 5, Название: Test
+2026-02-17 16:14:23 | admin | update_user | ID: 4, Логин: lenav
+2026-02-18 14:33:58 | admin | delete_file | ID: 46, Имя: Руководство_участника_Аккредитация.pdf
+2026-02-18 15:32:55 | admin | update_user | ID: 2, Логин: lenav
+2026-02-18 15:33:10 | admin | update_user | ID: 1, Логин: admin
+2026-02-18 15:40:38 | admin | reinit_db | База данных пересоздана
+2026-02-18 15:44:29 | admin | clear_accounts | Удалено файлов: 42
+2026-02-18 15:54:43 | admin | update_user | ID: 2, Логин: lenav
+2026-02-18 15:54:59 | admin | update_user | ID: 1, Логин: admin
+2026-02-18 15:56:24 | admin | download_file | ID: 1, Имя: code_review_report.pdf
+2026-02-19 13:39:58 | admin | delete_file | ID: 1, Имя: code_review_report.pdf
+2026-02-19 15:42:13 | admin | delete_file | ID: 9, Имя: Счет КГВВнг(А)-LS 4х6 - 150м 51162003.pdf
+2026-02-19 20:31:42 | admin | update_project | ID: 2, Название: Геопроект
+2026-02-19 20:32:09 | admin | update_project | ID: 2, Название: Геопроект
+2026-02-19 23:14:26 | admin | delete_file | ID: 10, Имя: Счет ХостингП-120258.pdf
+2026-02-19 23:15:28 | admin | update_user | ID: 1, Логин: admin
+2026-02-19 23:15:37 | admin | update_user | ID: 2, Логин: lenav
